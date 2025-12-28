@@ -46,11 +46,11 @@ Each script corresponds to a specific example in the paper.
 
 | Script | Corresponds to |
 | :--- | :--- |
-| `main_ex01_disk_const.m` | **Table 1** (Unit Disk, Constant Amplitude) |
-| `main_ex02a_disk_known_g.m` | **Table 2, Case (a)** (Unit Disk, Known *g(t)*) |
-| `main_ex02b_ellipse_known_g.m` | **Table 2, Case (b)** (Ellipse, Known *g(t)*) |
-| `main_ex03_disk_pwc.m` | **Table 3** (Unit Disk, Piecewise Constant *g(t)*) |
-| `main_ex04_ellipse_unknown.m` | **Table 4** (Ellipse, Unknown *g(t)*) |
+| `main_ex01_disk_const.m` | **Example 4.1** (Unit Disk, Constant Amplitude) |
+| `main_ex02a_disk_known_g.m` | **Example 4.2.(a)** (Unit Disk, Known *g(t)*) |
+| `main_ex02b_ellipse_known_g.m` | **Example 4.2.(b)** (Ellipse, Known *g(t)*) |
+| `main_ex03_disk_pwc.m` | **Example 4.3** (Unit Disk, Piecewise Constant *g(t)*) |
+| `main_ex04_ellipse_unknown.m` | **Example 4.4** (Ellipse, Unknown *g(t)*) |
 
 You can also run a specific example with a custom noise level:
 
